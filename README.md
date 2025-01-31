@@ -1,14 +1,17 @@
-# 👋 Hey there, I'm Theresa!(@Rapuluchukwu)
+# 👋 Hey there, I'm Theresa!/ @Rapuluchukwu
+🚀 Frontend Web Developer | Crafting sleek, user-friendly websites  
 
-🚀 **Frontend Web Developer** | Crafting sleek, modern, and user-friendly web experiences  
+- 👀 I’m interested in **building modern, responsive, and accessible web experiences**  
+- 🌱 I’m currently learning **JavaScript, Git, and improving my frontend skills**  
+- 💞️ I’m looking to collaborate on **open-source projects, web development challenges, and real-world solutions**  
+- 📫 How to reach me:  
+  - 📩 Email: [adrapulu@gmail.com](mailto:adrapulu@gmail.com)  
+  - 🔗 LinkedIn: [linkedin.com/in/adibe-theresa-r](https://www.linkedin.com/in/adibe-theresa-r)  
+  - 📱 WhatsApp: [Chat with me](https://wa.me/2348148091692)  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: **I’m passionate about reading books and diving into new topics that spark my curiosity!**  
 
-💡 Passionate about building **accessible** and **responsive** websites  
-🔨 Working with **HTML, CSS, JavaScript** (+ always learning more)  
-🌱 Currently sharpening my skills & working on exciting projects  
-
-✨ Fun fact: When I’m not coding, I’m probably **reading books, or brainstorming cool ideas**!  
-
-📫 Let’s connect! **08148091692**
+✨ **Let’s connect and build something amazing!**
 
 
 <!---
