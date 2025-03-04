@@ -8,7 +8,7 @@
   - 📩 Email: [adrapulu@gmail.com](mailto:adrapulu@gmail.com)  
   - 🔗 LinkedIn: [linkedin.com/in/adibe-theresa-r](https://www.linkedin.com/in/adibe-theresa-r)  
   - 📱 WhatsApp: [Chat with me](https://wa.me/2348148091692)
-  - Portfolio: [My-beginner portfolio😄](https://rapuluchukwu.github.io/My-Portifolio/ )
+  - Portfolio: [My-beginner portfolio😄...still a work in porogress](https://rapuluchukwu.github.io/My-Portifolio/ )
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I’m passionate about reading books and diving into new topics that spark my curiosity!**  
 
